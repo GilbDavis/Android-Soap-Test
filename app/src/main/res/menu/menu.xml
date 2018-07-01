@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/Buscar"
+        android:title="Buscar"
+        />
+    <item android:id="@+id/Actualizar"
+        android:title="Actualizar"
+        />
+
+    <item android:id="@+id/Eliminar"
+        android:title="Eliminar"
+        />
+
+    <item android:id="@+id/Limpiar"
+        android:title="Limpiar casillas"/>
+
+</menu>
